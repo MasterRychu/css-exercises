@@ -1,0 +1,19 @@
+.odd-number {
+  background-color: rgb(178, 49, 70);
+  font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#example-id {
+  color: rgb(0, 0, 255);
+  font-size: 36px;
+}
+
+#example-id2 {
+  font-size: 24px;
+}
+
+#example-id3 {
+  background-color: rgb(178, 254, 70);
+  font-size: 24px;
+  font-weight: bold;
+}
